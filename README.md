@@ -17,8 +17,9 @@ This is a simple NodeJS Express API that handles CRUD operations for an products
 
 1. Clone the repository and navigate to the project directory.
 2. Install dependencies by running the following command:
-##npm start
+`npm install`
 3. Start the server by running the following command:
+`npm start`
 
 4. The server should now be running on port 3000. You can access the API using any REST client, such as Postman or cURL.
 
