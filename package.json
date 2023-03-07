@@ -1,0 +1,28 @@
+{
+  "name": "ecomerce-backend",
+  "version": "1.0.0",
+  "description": "a simple ecommerce app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iSaacSigei/ecommerce-NodeJS.git"
+  },
+  "keywords": [
+    "Ecommerce"
+  ],
+  "author": "sigei_isack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iSaacSigei/ecommerce-NodeJS/issues"
+  },
+  "homepage": "https://github.com/iSaacSigei/ecommerce-NodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "pg": "^8.9.0"
+  }
+}
